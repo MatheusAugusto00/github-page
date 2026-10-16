@@ -1,28 +1,39 @@
 # Portfólio — Matheus Augusto Neves Machado
 
-Site pessoal responsivo feito com HTML, CSS e Bootstrap 5, pronto para publicar no GitHub Pages.
+Este repositório contém meu portfólio pessoal, desenvolvido para apresentar minha trajetória acadêmica, minha experiência profissional e as áreas da Ciência da Computação que despertam meu interesse.
 
-## Como visualizar localmente
-Abra `index.html` no navegador. É necessário estar conectado à internet para carregar Bootstrap, Bootstrap Icons e a fonte do Google Fonts via CDN.
+Sou estudante do 8º semestre de Ciência da Computação e busco ampliar continuamente meus conhecimentos em tecnologia, explorando diferentes possibilidades de atuação e desenvolvimento profissional.
 
-## Como personalizar antes de publicar
-1. Atualize os links do GitHub, LinkedIn e e-mail na seção `Contato` do `index.html`.
-2. Se quiser, substitua `assets/img/matheus.png` pela sua foto.
-3. Revise o conteúdo e inclua links para projetos reais quando estiverem prontos.
+## Sobre o projeto
 
-## Publicar no GitHub Pages
-1. Crie um repositório no GitHub, por exemplo `matheus-augusto-neves-machado`.
-2. Envie todos os arquivos e pastas deste projeto para a raiz do repositório (o `index.html` precisa ficar na raiz).
-3. Abra **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Selecione a branch `main` e a pasta `/(root)`, depois clique em **Save**.
-6. Aguarde a publicação. O endereço costuma ser `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
+O site reúne, em uma página responsiva, informações sobre minha formação, minha experiência como estagiário de desenvolvimento no Supremo Tribunal Federal (STF) e meus principais interesses na área de tecnologia.
 
-## Estrutura
-- `index.html` — conteúdo e estrutura das seções
-- `assets/css/style.css` — identidade visual e responsividade
-- `assets/js/main.js` — pequenos comportamentos de interface
-- `assets/img/matheus.png` — foto de perfil
+Entre os temas apresentados estão:
 
-## Template/base
-Este projeto usa Bootstrap 5 via CDN e um layout autoral inspirado em portfólios modernos; não depende de um tema premium ou de um template externo.
+- **Desenvolvimento de software:** construção, manutenção e evolução de aplicações.
+- **Dados e bancos de dados:** organização e utilização de informações.
+- **Inteligência artificial:** soluções para análise de informações e automação de processos.
+- **Qualidade de software e testes:** práticas para desenvolver sistemas mais confiáveis e sustentáveis.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Bootstrap Icons
+
+## Objetivo
+
+Este portfólio tem como objetivo apresentar meu perfil acadêmico e profissional, reunir informações relevantes sobre minha trajetória e servir como espaço para compartilhar projetos e aprendizados ao longo da minha formação em Ciência da Computação.
+
+## Acesse o portfólio
+
+O site está publicado por meio do **GitHub Pages**.
+
+https://matheusaugusto00.github.io/github-page/
+
+## Autor
+
+**Matheus Augusto Neves Machado**  
+Estudante de Ciência da Computação — 8º semestre
